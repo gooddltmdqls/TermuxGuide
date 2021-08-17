@@ -5,4 +5,4 @@ Welcome to the termux! if you have problems, ask to here!
 
 # Contents
 
-(Installing and using PHP)[https://github.com/gooddltmdqls/TermuxGuide/InstallPHP.md
+(Problems of using PHP commands)[https://github.com/gooddltmdqls/TermuxGuide/blob/main/InstallPHP.md]
